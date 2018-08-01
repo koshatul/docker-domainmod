@@ -1,0 +1,3 @@
+[submodule "domainmod"]
+	path = domainmod
+	url = https://github.com/domainmod/domainmod.git
